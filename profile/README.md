@@ -10,7 +10,7 @@
 <h4 align="center">Soluciones inteligentes para la logística internacional, cruzamos fronteras a través de la tecnología, asesoramiento y eficiencia.
 <a href="https://crossborder-dlb.github.io" target="_blank">CrossBorder DLB</a>.</h4>
 
-![screenshot](https://raw.githubusercontent.com/tecnoprojects/tecnoprojects.github.io/main/images/cap.png)
+![screenshot](https://github.com/CrossBorder-DLB/CrossBorder-DLB.github.io/blob/main/img/visual.png?raw=true)
 
 ---
 ## Nos dedicamos a lo siguiente
