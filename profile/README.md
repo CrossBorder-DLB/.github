@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://crossborder-dlb.github.io"><img src="https://avatars.githubusercontent.com/u/82187155?s=200&v=4" alt="CrossBorder-DLB" width="200"></a>
+  <a href="https://crossborder-dlb.github.io"><img src="https://github.com/CrossBorder-DLB/CrossBorder-DLB.github.io/blob/main/img/Logos/CB-color-PNG.png?raw=true" alt="CrossBorder-DLB" width="200"></a>
   <br>
   CrossBorder DLB
   <br>
